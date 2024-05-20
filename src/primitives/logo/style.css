@@ -1,0 +1,22 @@
+.logo {
+  margin-left: 90px;
+}
+
+.logo__link {
+  display: flex;
+  align-items: center;
+  text-decoration: none !important;
+  font-family: "Inter", Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  font-size: 28px;
+}
+
+.logo__text {
+  margin-left: 20px;
+}
+
+a:-webkit-any-link {
+  color: white;
+  cursor: pointer;
+  text-decoration: none;
+}
