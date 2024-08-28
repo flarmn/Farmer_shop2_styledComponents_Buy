@@ -1,5 +1,5 @@
 import React from "react";
-import FarmerImg from "/src/assets/farmer_about.png";
+import FarmerImg from "assets/farmer_about.png";
 import styled from "styled-components";
 
 const StyledAboutBlockIllustration = styled.div`

@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import styled from "styled-components";
-import CardTabButton from "/src/primitives/cardTabButton/cardTabButton";
-import CardTabText from "/src/primitives/cardsTabText/cardsTabText";
-import CardTabPrice from "/src/primitives/cardTabPrice/cardTabPrice";
+import CardTabButton from "primitives/cardTabButton/cardTabButton";
+import CardTabText from "primitives/cardsTabText/cardsTabText";
+import CardTabPrice from "primitives/cardTabPrice/cardTabPrice";
 
 const StyledCardTabs = styled.div`
   display: flex;

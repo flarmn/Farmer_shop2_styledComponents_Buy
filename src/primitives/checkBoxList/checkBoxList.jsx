@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import styled from "styled-components";
-import CustomCheckBox from "/src/primitives/customCheckBox/customCheckBox";
+import CustomCheckBox from "primitives/customCheckBox/customCheckBox";
 
 const StyledCheckBoxListWrapper = styled.ul`
   list-style: none;

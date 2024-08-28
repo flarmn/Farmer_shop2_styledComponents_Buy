@@ -1,8 +1,8 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import HeaderTitle2 from "/src/primitives/headerTitle2/headerTitle2";
-import CardsGrid from "/src/pageBlocks/cardsGrid/cardsGrid";
-import Button from "/src/primitives/button/button";
+import HeaderTitle2 from "primitives/headerTitle2/headerTitle2";
+import CardsGrid from "pageBlocks/cardsGrid/cardsGrid";
+import Button from "primitives/button/button";
 
 function AdvantagesBlock({ advWidth, advHeight, advBackgrColor }) {
   return (

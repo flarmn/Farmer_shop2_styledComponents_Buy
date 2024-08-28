@@ -1,6 +1,6 @@
 import React from "react";
-import AboutFarmerShopBlock from "/src/pageBlocks/aboutFarmerShopBlock/aboutFarmerShopBlock";
-import AdvantagesBlock from "/src/pageBlocks/advantagesBlock/advantagesBlock";
+import AboutFarmerShopBlock from "pageBlocks/aboutFarmerShopBlock/aboutFarmerShopBlock";
+import AdvantagesBlock from "pageBlocks/advantagesBlock/advantagesBlock";
 import styled from "styled-components";
 
 const StyledMain = styled.main`

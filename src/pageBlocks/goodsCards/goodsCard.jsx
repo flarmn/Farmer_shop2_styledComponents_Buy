@@ -1,8 +1,8 @@
 import React from "react";
 
 import styled from "styled-components";
-import CardTitle from "/src/primitives/cardTitle/cardTitle";
-import CardTabs from "/src/pageBlocks/cardTabs/cardTabs";
+import CardTitle from "primitives/cardTitle/cardTitle";
+import CardTabs from "pageBlocks/cardTabs/cardTabs";
 
 const StyledGoodsCard = styled.div`
   display: flex;

@@ -1,8 +1,8 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
-import FarmerShop from "/src/fullPage/farmerShop";
-import FarmerPurchasePage from "/src/fullPage/farmerShop_Purchase_Page";
-import { productList } from "/src/mocks/goods_mock";
+import FarmerShop from "fullPage/farmerShop";
+import FarmerPurchasePage from "fullPage/farmerShop_Purchase_Page";
+import { productList } from "mocks/goods_mock.js";
 
 export default function App() {
   return (

@@ -1,6 +1,6 @@
 import React from "react";
-import AdvantagesCard from "/src/pageBlocks/advantagesCard/advantagesCard";
-import cardData from "/src/mocks/main_mocks/";
+import AdvantagesCard from "pageBlocks/advantagesCard/advantagesCard";
+import cardData from "mocks/main_mocks";
 import styled from "styled-components";
 
 const StyledCardsGrid = styled.div`

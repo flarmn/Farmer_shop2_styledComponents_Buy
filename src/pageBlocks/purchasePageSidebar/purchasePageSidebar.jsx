@@ -1,8 +1,8 @@
 import React from "react";
 import styled from "styled-components";
 import { useState } from "react";
-import CheckBoxList from "/src/primitives/checkBoxList/checkBoxList";
-import OrderWidget from "/src/primitives/orderWidget/orderWidget";
+import CheckBoxList from "primitives/checkBoxList/checkBoxList";
+import OrderWidget from "primitives/orderWidget/orderWidget";
 
 const StyledSidebarSection = styled.section`
   width: 20%;

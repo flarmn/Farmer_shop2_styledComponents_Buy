@@ -1,7 +1,7 @@
 import React from "react";
-import Header from "/src/pageSections/header/header";
-import Purchase_Page_Main from "/src/pageSections/main/purchase_page_main";
-import Footer from "/src/pageSections/footer/footer";
+import Header from "pageSections/header/header";
+import Purchase_Page_Main from "pageSections/main/purchase_page_main";
+import Footer from "pageSections/footer/footer";
 import styled from "styled-components";
 
 const StyledPurchasePageWraper = styled.div`

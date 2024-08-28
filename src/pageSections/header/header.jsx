@@ -1,6 +1,6 @@
 import React from "react";
-import Logo from "/src/primitives/logo/logo";
-import Button from "/src/primitives/button/button";
+import Logo from "primitives/logo/logo";
+import Button from "primitives/button/button";
 import styled from "styled-components";
 import { Link, Outlet } from "react-router-dom";
 const StyledHeader = styled.header`

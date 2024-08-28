@@ -1,6 +1,6 @@
 import React from "react";
-import AboutTextBlock from "/src/primitives/about_block_text/about_block_text";
-import AboutBlockIllustration from "/src/primitives/about_block_illustration/about_block_illustration";
+import AboutTextBlock from "primitives/about_block_text/about_block_text";
+import AboutBlockIllustration from "primitives/about_block_illustration/about_block_illustration";
 import styled from "styled-components";
 
 const StyleAboutFarmerShopBlock = styled.section`

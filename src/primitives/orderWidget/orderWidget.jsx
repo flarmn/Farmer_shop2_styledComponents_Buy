@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import styled from "styled-components";
-import Button from "/src/primitives/button/button";
+import Button from "primitives/button/button";
 
 const StyledOrderWidgetWrapper = styled.div`
   display: block;

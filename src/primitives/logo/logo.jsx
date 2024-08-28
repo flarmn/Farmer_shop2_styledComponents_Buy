@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import logoImg from "/src/assets/farmer_logo.svg";
+import logoImg from "assets/farmer_logo.svg";
 import "./style.css";
 
 function Logo({

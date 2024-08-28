@@ -1,6 +1,6 @@
 import React from "react";
-import Logo from "/src/primitives/logo/logo";
-import Copyright from "/src/primitives/copyright/copyright";
+import Logo from "primitives/logo/logo";
+import Copyright from "primitives/copyright/copyright";
 import styled from "styled-components";
 
 const StyledFooter = styled.footer`

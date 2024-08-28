@@ -1,7 +1,7 @@
 import React from "react";
-import Header from "/src/pageSections/header/header";
-import Main from "/src/pageSections/main/main";
-import Footer from "/src/pageSections/footer/footer";
+import Header from "pageSections/header/header";
+import Main from "pageSections/main/main";
+import Footer from "pageSections/footer/footer";
 
 function FarmerShopMain() {
   return (

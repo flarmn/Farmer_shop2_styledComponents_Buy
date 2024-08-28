@@ -1,6 +1,6 @@
 import React from "react";
 
-import GoodsCard from "/src/pageBlocks/goodsCards/goodsCard";
+import GoodsCard from "pageBlocks/goodsCards/goodsCard";
 import styled from "styled-components";
 
 const StyledGoodList = styled.section`
